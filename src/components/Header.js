@@ -4,7 +4,7 @@ import "./Header.css";
 function Header() {
   return (
     <header className="header">
-      <img src="/profile.jpg" alt="Profile" className="profile-pic" />
+      <img src="/Photograph.JPG" alt="Profile" className="profile-pic" />
       <div>
         <h1>Srikant Bollikonda</h1>
         <p>Email: <a href="mailto:srikanthbollikonda0510@gmail.com">srikanthbollikonda0510@gmail.com</a></p>
